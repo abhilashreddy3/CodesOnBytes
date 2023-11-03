@@ -3,7 +3,7 @@
 
 This repository contains Python scripts to retrieve data from a public API and clean a dataset using Python and Pandas. The scripts perform the following tasks:
 
-## Phase 1 Tasks
+## Phase 1 Projects
 
 ### Task 1 - Data Retrieval from a Public API
 
@@ -30,7 +30,12 @@ This script takes an existing dataset, replaces missing values, and removes outl
 3. Update the file path to your downloaded dataset.
 4. Run the script. It will clean the dataset and create a new CSV file named `cleaned_dataset.csv`.
 
-## Phase 2 Tasks
+
+# Phase 2
+
+This repository contains Python scripts to retrieve data from a public API, clean a dataset using Python and Pandas, analyze the dataset, create graphs using Seaborn and Matplotlib, train a simple linear regression model on the dataset, and predict the output.
+
+## Phase 2 Projects
 
 ### Task 1 - Dataset Analysis and Graphs
 
